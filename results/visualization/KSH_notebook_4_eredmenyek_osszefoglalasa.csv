@@ -1,0 +1,18 @@
+﻿Témakör,Eredmény
+Végleges modell,"Ridge-regresszió, alpha = 3"
+Végső tesztidőszak,2024 Q1 – 2025 Q4
+Végső teszt MAE,10 002 Ft
+Végső teszt RMSE,13 093 Ft
+Végső teszt MAPE,1.66%
+Átlagos negyedéves R²,0.966
+Javulás az előző negyedéves naiv modellhez képest,56.2%
+Javulás a szezonális naiv modellhez képest,83.4%
+Átlagos irányított hiba,8 101 Ft – felülbecslés
+Felülbecslések aránya,83.1%
+Legpontosabban előrejelzett terület,Baranya – 5 693 Ft MAE
+Legpontatlanabbul előrejelzett terület,Tolna – 18 495 Ft MAE
+Klaszterek közötti MAE-különbség,3 541 Ft; az 1. klaszterben 44.0% többlet
+Bérszint és MAE kapcsolata,"Pearson r = 0.581, p = 0.0073"
+Bérszint és MAPE kapcsolata,"Pearson r = 0.300, p = 0.1995"
+Legnehezebb célnegyedév,2025Q1 – 22 478 Ft MAE
+Legnagyobb standardizált feature-hatás,Bér – 3 negyedéves késleltetés – 39 204 Ft / 1 szórás

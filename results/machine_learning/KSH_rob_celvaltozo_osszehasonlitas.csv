@@ -1,0 +1,14 @@
+﻿Célváltozó,Modell,Legjobb paraméterek,Fejlesztési MAE (Ft),Bias (Ft)
+szint,Lineáris regresszió,{},9884.495563383474,-4185.6853012967795
+szint,Ridge,{'alpha': 3},8939.824339055249,-5320.497139933673
+szint,Lasso,{'alpha': 100},9392.020336310312,-5725.110499790576
+szint,Elastic Net (eredeti rács),"{'alpha': 10, 'l1_ratio': 0.9}",21371.748655531406,-21013.429695261082
+szint,Elastic Net (bővített rács),"{'alpha': 0.1, 'l1_ratio': 0.9}",9001.35695165694,-5374.580514014185
+szint,Random Forest,"{'max_depth': None, 'max_features': 0.7, 'min_samples_leaf': 2}",12326.804043308104,-8616.291782580294
+szint,Gradient Boosting,"{'learning_rate': 0.05, 'max_depth': 2, 'n_estimators': 200}",12132.682639682193,-8912.69121149606
+növekedés,Lineáris regresszió,{},9093.276927918092,-3530.982877834883
+növekedés,Ridge,{'alpha': 3},8368.49683451143,-4129.130751965317
+növekedés,Lasso,{'alpha': 0.00031623},8170.492031324037,-4364.529194049984
+növekedés,Elastic Net (bővített rács),"{'alpha': 0.00031623, 'l1_ratio': 0.9}",8144.770857531014,-4396.826119581024
+növekedés,Random Forest,"{'max_depth': None, 'max_features': 0.7, 'min_samples_leaf': 2}",9156.564949908037,-2820.7470207802594
+növekedés,Gradient Boosting,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}",9699.698865335582,-4099.66010381461

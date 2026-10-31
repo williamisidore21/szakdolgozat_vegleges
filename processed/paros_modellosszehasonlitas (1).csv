@@ -1,0 +1,3 @@
+﻿Összehasonlítás,Átlagos előny_Ft,Medián előny_Ft,95% CI alsó,95% CI felső,Jobb negyedévek,Rosszabb negyedévek,Összes negyedév,Értelmezés
+Ridge vs. Lasso,-901.1988895169335,-658.8140739928949,-1800.7779525263572,-158.8920038652285,2,6,8,A versenytárs valószínűleg jobb
+Ridge vs. Linear Regression,-954.5264489438823,-676.3778710074916,-1896.6110580752668,-171.16111346727348,2,6,8,A versenytárs valószínűleg jobb

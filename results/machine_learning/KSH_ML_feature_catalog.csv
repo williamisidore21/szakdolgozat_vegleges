@@ -1,0 +1,16 @@
+﻿Feature,Feature_csoport,Típus
+Bruttó_átlagkereset_HUF,Bérdinamika,Numerikus
+Bér_Lag1,Bérdinamika,Numerikus
+Bér_Lag2,Bérdinamika,Numerikus
+Bér_Lag3,Bérdinamika,Numerikus
+Bér_Lag4,Bérdinamika,Numerikus
+Bér_Növekedés_QoQ,Bérdinamika,Numerikus
+Bér_Növekedés_YoY,Bérdinamika,Numerikus
+Munkanélküliségi_ráta_%,Munkaerőpiac,Numerikus
+Munkanélküliség_Lag1,Munkaerőpiac,Numerikus
+Munkanélküliség_Lag4,Munkaerőpiac,Numerikus
+Munkanélküliség_Delta,Munkaerőpiac,Numerikus
+Álláskeresők_1000_foglalkoztatottra,Munkaerőpiac,Numerikus
+Időtrend_negyedév,Időtrend,Numerikus
+Területi egység neve,Terület és szezonalitás,Kategorikus
+Negyedév_kategória,Terület és szezonalitás,Kategorikus

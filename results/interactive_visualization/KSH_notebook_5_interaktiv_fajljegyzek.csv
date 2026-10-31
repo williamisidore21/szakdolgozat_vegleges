@@ -1,0 +1,8 @@
+﻿Sorszám,Kimenet,Formátum,Fájl,Létezik,Fájlméret_MB
+1,Interaktív területi hibatérkép,HTML,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\figures\interactive\01_interaktiv_regionalis_hibaterkep.html,True,4.720995903015137
+2,Területválasztós valós–predikció idősor,HTML,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\figures\interactive\02_interaktiv_valos_vs_ridge_teruletenkent.html,True,4.682629585266113
+3,Interaktív Ridge-eredménydashboard,HTML,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\figures\interactive\03_interaktiv_ridge_eredmenydashboard.html,True,4.728206634521484
+4,Interaktív térkép területi adatai,CSV,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\results\interactive_visualization\KSH_interaktiv_terkepi_adatok.csv,True,0.004337310791015625
+5,Területenkénti idősoros adatok,CSV,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\results\interactive_visualization\KSH_interaktiv_teruleti_idosor_adatok.csv,True,0.017493247985839844
+6,Dashboard területi összefoglaló,CSV,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\results\interactive_visualization\KSH_interaktiv_dashboard_teruleti_osszefoglalo.csv,True,0.0025730133056640625
+7,Eurostat GISCO NUTS 3 geometria,GeoJSON,c:\Users\wldbe\Downloads\szakdolgozat12-20260820T154901Z-1-001\szakdolgozat12\geodata\NUTS_RG_03M_2024_4326_LEVL_3.geojson,True,6.338437080383301

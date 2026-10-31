@@ -1,0 +1,5 @@
+﻿Cél_Dátum,Célnegyedév,Klaszter,Klaszter_neve,Területek,Átlagos_valós_bér_Ft,Bias_Ft,Medián_hiba_Ft,MAE_Ft,MAPE_pct,RMSE_Ft,Felülbecslések_aránya_pct,Klaszter_megjelenítés
+2025-01-01,2025Q1,1,Magasabb bérszint / alacsonyabb munkanélküliség,11,644757.8181818182,24941.938016658925,26106.16658486857,24941.938016658925,3.917806628558243,25467.108601521184,100.0,"1. klaszter
+Magasabb bérszint"
+2025-01-01,2025Q1,2,Alacsonyabb bérszint / magasabb munkanélküliség,9,547314.7777777778,19466.032477385495,19716.07260878268,19466.032477385495,3.568827253291799,19770.81737340923,100.0,"2. klaszter
+Alacsonyabb bérszint"

@@ -1,0 +1,21 @@
+﻿Területi egység neve,Ward_klaszter,KMeans_klaszter,Egyező_besorolás
+Baranya,2,2,True
+Borsod-Abaúj-Zemplén,2,2,True
+Budapest,1,1,True
+Bács-Kiskun,1,1,True
+Békés,2,2,True
+Csongrád-Csanád,1,1,True
+Fejér,1,1,True
+Győr-Moson-Sopron,1,1,True
+Hajdú-Bihar,2,2,True
+Heves,1,1,True
+Jász-Nagykun-Szolnok,2,2,True
+Komárom-Esztergom,1,1,True
+Nógrád,2,2,True
+Pest,1,1,True
+Somogy,2,2,True
+Szabolcs-Szatmár-Bereg,2,2,True
+Tolna,1,1,True
+Vas,1,1,True
+Veszprém,1,1,True
+Zala,2,2,True

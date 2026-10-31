@@ -1,0 +1,5 @@
+﻿Klaszter,Klaszter_neve,Területek,Megfigyelések,Átlagos_valós_bér_Ft,Bias_Ft,MAE_Ft,MAPE_pct,RMSE_Ft,Felülbecslések_aránya_pct,Klaszter_megjelenítés
+1,Magasabb bérszint / alacsonyabb munkanélküliség,11,88,646017.1818181818,9364.344504437951,11595.135613883642,1.8064832269757902,15222.158890403232,84.0909090909091,"1. klaszter
+Magasabb bérszint"
+2,Alacsonyabb bérszint / magasabb munkanélküliség,9,72,545590.9444444445,6556.884418174459,8053.9740966607915,1.480842804033018,9887.310202082072,81.94444444444444,"2. klaszter
+Alacsonyabb bérszint"

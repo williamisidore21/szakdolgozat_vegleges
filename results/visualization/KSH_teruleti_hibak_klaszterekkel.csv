@@ -1,0 +1,41 @@
+﻿Területi egység neve,Átlagos_valós_bér_Ft,Átlagos_predikció_Ft,Bias_Ft,MAE_Ft,MAPE_%,Legnagyobb_abszolút_hiba_Ft,Negyedévek,RMSE_Ft,Felülbecslések_aránya_%,Átlagos_hibairány,MAE_rangsor,Klaszter,Klaszter_neve,Klaszter_megjelenítés
+Baranya,579368.0,583819.6523635909,4451.652363590882,5693.40125657407,0.9824768416366424,19105.485382901737,8,7825.284513204437,75.0,Felülbecslés,1,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Békés,513258.5,519815.5659650876,6557.065965087648,6557.065965087648,1.2984232881915814,20406.833369423985,8,8776.875136865096,100.0,Felülbecslés,2,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Jász-Nagykun-Szolnok,554305.5,560679.1213978622,6373.621397862269,7155.535041954252,1.29313548898473,18434.71367841307,8,8972.455236966074,87.5,Felülbecslés,3,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Szabolcs-Szatmár-Bereg,499500.0,504456.4259023165,4956.425902316536,7250.801708025378,1.4445608732305748,12811.607240933923,8,8176.08215691029,75.0,Felülbecslés,4,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Somogy,550373.0,558345.2073182862,7972.207318286149,8311.59615805067,1.4978025894572315,19716.07260878268,8,9932.57610095209,87.5,Felülbecslés,5,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Csongrád-Csanád,586724.0,592932.9150067508,6208.91500675086,8453.008984239,1.4382837847647691,25229.910602969238,8,11557.030730124852,62.5,Felülbecslés,6,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Bács-Kiskun,581498.0,588725.6382938109,7227.638293810931,8702.32376766541,1.4942467388563008,22202.357440851974,8,10977.508005026972,75.0,Felülbecslés,7,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Pest,618499.5,625697.1485242003,7197.648524200282,8959.671126688132,1.4647496984108552,14863.348348579486,8,9923.032945311768,87.5,Felülbecslés,8,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Hajdú-Bihar,592346.5,597465.1156044826,5118.615604482591,9030.579733713295,1.535263859698074,15096.04538046359,8,9722.494396819777,75.0,Felülbecslés,9,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Borsod-Abaúj-Zemplén,547353.5,555735.5902108542,8382.0902108542,9118.831187224168,1.6877797579510936,23196.19322004809,8,11430.691024403011,87.5,Felülbecslés,10,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Veszprém,603220.5,612472.0363481232,9251.53634812322,9251.53634812322,1.526400022697919,19065.959554168512,8,11364.59733734067,100.0,Felülbecslés,11,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Heves,621117.5,630015.1144707032,8897.614470703134,9267.311902573723,1.513262860074081,27504.672279389342,8,12163.50393880642,87.5,Felülbecslés,12,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Zala,549328.0,556738.0475139298,7410.047513929821,9452.281549868305,1.7058090608613543,23444.00473492756,8,11467.65707899865,75.0,Felülbecslés,13,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Nógrád,524485.5,532275.7334871601,7790.233487160032,9915.674269449344,1.8823334762858777,22983.33668057481,8,11783.777769411188,75.0,Felülbecslés,14,2,Alacsonyabb bérszint / magasabb munkanélküliség,"2. klaszter
+Alacsonyabb bérszint"
+Fejér,654145.5,664294.1571995224,10148.657199522408,10148.657199522408,1.576398330748919,30551.643044932047,8,14126.141231186284,100.0,Felülbecslés,15,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Budapest,816835.0,827800.3175232204,10965.317523220425,11558.653965768011,1.4381243930247958,28922.314617870143,8,16426.911818432818,75.0,Felülbecslés,16,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Vas,610780.5,620495.5378947923,9715.037894792273,11797.13906355406,1.9706085152244477,29582.11097076524,8,14343.36344767454,87.5,Felülbecslés,17,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Komárom-Esztergom,670638.0,682115.4589690681,11477.458969068117,12531.39805636664,1.882325544876456,26106.16658486857,8,15685.792280269025,87.5,Felülbecslés,18,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Győr-Moson-Sopron,711389.5,729205.0399321191,17815.53993211912,18381.424809516568,2.6518678838501453,45144.31946798274,8,23454.266498684054,87.5,Felülbecslés,19,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"
+Tolna,631341.0,635443.4253865067,4102.4253865067,18495.366528702885,2.9150477242050044,31948.441159187816,8,21164.66725167004,75.0,Felülbecslés,20,1,Magasabb bérszint / alacsonyabb munkanélküliség,"1. klaszter
+Magasabb bérszint"

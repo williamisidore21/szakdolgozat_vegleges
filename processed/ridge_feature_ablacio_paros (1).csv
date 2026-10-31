@@ -1,0 +1,6 @@
+﻿Eltávolított_csoport,Átlagos_MAE_növekedés_Ft,Medián_MAE_növekedés_Ft,Teljes_modell_jobb_foldok,Ablált_modell_jobb_foldok,Foldok
+– Lag változók,2947.3157236678812,2294.9051144691475,9,2,11
+– Idő és szezonalitás,1384.505655454063,593.3422463690513,9,2,11
+– Munkaerőpiaci változók,124.70693392246613,-19.068643438239633,4,7,11
+– Aktuális bér,83.6350014974298,-5.68806892784778,5,6,11
+– Területi dummy,-373.4464705968539,-402.3289217244892,3,8,11

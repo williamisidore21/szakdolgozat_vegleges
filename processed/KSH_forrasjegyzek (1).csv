@@ -1,0 +1,6 @@
+﻿Forrás,Táblakód,Fájlnév,Felhasznált adat,Szerep
+KSH STADAT,20.2.2.5,stadat-mun0171-20.2.2.5-hu.csv,Munkanélküliségi ráta,Gazdasági és munkaerőpiaci magyarázó változó
+KSH STADAT,20.2.2.6,stadat-mun0172-20.2.2.6-hu.csv,Nyilvántartott álláskeresők száma,Munkaerőpiaci magyarázó változó
+KSH STADAT,20.9.2.4,stadat-mun0175-20.9.2.4-hu.csv,Bruttó átlagkereset – archív adatforrás,A korábbi időszak béradatainak forrása
+KSH STADAT,20.2.2.9,stadat-mun0206-20.2.2.9-hu.csv,Bruttó átlagkereset – új adatforrás,Az újabb időszak béradatainak forrása
+KSH STADAT,20.2.2.1,stadat-mun0161-20.2.2.1-hu.csv,Foglalkoztatottak száma,Munkaerőpiaci és területi magyarázó változó

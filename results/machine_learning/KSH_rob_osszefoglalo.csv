@@ -1,0 +1,8 @@
+﻿,Érték
+Ridge (szint) fejlesztési MAE,8939.824339055249
+Ridge (szint) teszt MAE,10001.612931133368
+Ridge (szint) teszt bias,8100.987465619386
+Ridge (szint) fejlesztési bias,-5320.497139933673
+Szez. naiv driftel (terület) teszt MAE,6434.462952570804
+ETS teszt MAE,5913.61452742196
+Kiválasztott ETS (fejlesztésen),ETS mul. szezon + damped trend

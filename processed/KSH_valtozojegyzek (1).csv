@@ -1,0 +1,16 @@
+﻿Változó,Jelentés,Mértékegység,Szerep,Előállítás
+Dátum,A megfigyelés negyedévének kezdődátuma,dátum,időindex,KSH időszakjelölésből
+Területi egység neve,Budapest vagy a 19 vármegye egyike,kategória,területi azonosító,KSH területi megnevezés
+Munkanélküliségi_ráta_%,A területi munkanélküliségi ráta,%,gazdasági magyarázó változó,KSH-adat
+Álláskeresők_száma,A nyilvántartott álláskeresők száma,fő,gazdasági magyarázó változó,KSH-adat
+"Foglalkoztatottak, ezer fő",A foglalkoztatottak becsült száma,ezer fő,gazdasági magyarázó változó,KSH-adat
+Bruttó_átlagkereset_kumulált_HUF,Az adott éven belüli kumulált bruttó átlagkereset,Ft,forrás- és ellenőrző változó,Két KSH-bértábla egyesítéséből
+Év,A megfigyelés naptári éve,év,időbeli azonosító,A Dátum változóból
+Negyedév,A megfigyelés naptári negyedéve,1–4,szezonális azonosító,A Dátum változóból
+Előző_kumulált_bér,Az előző negyedév azonos éven belüli kumulált bére,Ft,de-kumulálási segédváltozó,Területenként és évenként képzett késleltetés
+Bruttó_átlagkereset_HUF,"A de-kumulált, önálló negyedéves bruttó átlagkereset",Ft,központi gazdasági változó,A kumulált bér algebrai de-kumulálásából
+Bér_Növekedés_QoQ,A bér változása az előző negyedévhez képest,arány,származtatott gazdasági változó,Területenkénti százalékos változás
+Bér_Növekedés_YoY,A bér változása az előző év azonos negyedévéhez képest,arány,származtatott gazdasági változó,Területenkénti négy negyedéves változás
+Munkanélküliség_Delta,A munkanélküliségi ráta negyedéves változása,százalékpont,származtatott gazdasági változó,Területenkénti első differencia
+Jövő_Negyedévi_Bér,A következő negyedév de-kumulált bruttó átlagkeresete,Ft,előrejelzési célváltozó,A következő negyedévi bér területenkénti hozzárendelésével
+Cél_Dátum,Az előrejelzés célnegyedévének kezdődátuma,dátum,előrejelzési célidőpont,Területenként következő negyedévi dátum

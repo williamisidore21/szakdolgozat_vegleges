@@ -1,0 +1,21 @@
+﻿Területi egység neve,Klaszter,Klaszter_neve,Átlagos_valós_bér_Ft,MAE_Ft,MAPE_%,Bias_Ft
+Baranya,2,Alacsonyabb bérszint / magasabb munkanélküliség,579368.0,5693.40125657407,0.9824768416366424,4451.652363590882
+Békés,2,Alacsonyabb bérszint / magasabb munkanélküliség,513258.5,6557.065965087648,1.2984232881915814,6557.065965087648
+Jász-Nagykun-Szolnok,2,Alacsonyabb bérszint / magasabb munkanélküliség,554305.5,7155.535041954252,1.29313548898473,6373.621397862269
+Szabolcs-Szatmár-Bereg,2,Alacsonyabb bérszint / magasabb munkanélküliség,499500.0,7250.801708025378,1.4445608732305748,4956.425902316536
+Somogy,2,Alacsonyabb bérszint / magasabb munkanélküliség,550373.0,8311.59615805067,1.4978025894572315,7972.207318286149
+Csongrád-Csanád,1,Magasabb bérszint / alacsonyabb munkanélküliség,586724.0,8453.008984239,1.4382837847647691,6208.91500675086
+Bács-Kiskun,1,Magasabb bérszint / alacsonyabb munkanélküliség,581498.0,8702.32376766541,1.4942467388563008,7227.638293810931
+Pest,1,Magasabb bérszint / alacsonyabb munkanélküliség,618499.5,8959.671126688132,1.4647496984108552,7197.648524200282
+Hajdú-Bihar,2,Alacsonyabb bérszint / magasabb munkanélküliség,592346.5,9030.579733713295,1.535263859698074,5118.615604482591
+Borsod-Abaúj-Zemplén,2,Alacsonyabb bérszint / magasabb munkanélküliség,547353.5,9118.831187224168,1.6877797579510936,8382.0902108542
+Veszprém,1,Magasabb bérszint / alacsonyabb munkanélküliség,603220.5,9251.53634812322,1.526400022697919,9251.53634812322
+Heves,1,Magasabb bérszint / alacsonyabb munkanélküliség,621117.5,9267.311902573723,1.513262860074081,8897.614470703134
+Zala,2,Alacsonyabb bérszint / magasabb munkanélküliség,549328.0,9452.281549868305,1.7058090608613543,7410.047513929821
+Nógrád,2,Alacsonyabb bérszint / magasabb munkanélküliség,524485.5,9915.674269449344,1.8823334762858777,7790.233487160032
+Fejér,1,Magasabb bérszint / alacsonyabb munkanélküliség,654145.5,10148.657199522408,1.576398330748919,10148.657199522408
+Budapest,1,Magasabb bérszint / alacsonyabb munkanélküliség,816835.0,11558.653965768011,1.4381243930247958,10965.317523220425
+Vas,1,Magasabb bérszint / alacsonyabb munkanélküliség,610780.5,11797.13906355406,1.9706085152244477,9715.037894792273
+Komárom-Esztergom,1,Magasabb bérszint / alacsonyabb munkanélküliség,670638.0,12531.39805636664,1.882325544876456,11477.458969068117
+Győr-Moson-Sopron,1,Magasabb bérszint / alacsonyabb munkanélküliség,711389.5,18381.424809516568,2.6518678838501453,17815.53993211912
+Tolna,1,Magasabb bérszint / alacsonyabb munkanélküliség,631341.0,18495.366528702885,2.9150477242050044,4102.4253865067

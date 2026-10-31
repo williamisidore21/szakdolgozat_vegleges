@@ -1,0 +1,15 @@
+﻿Mutató,Érték
+Végleges modell,Ridge-regresszió
+Ridge alpha,3.0
+Feature-ek száma,14
+Végső teszt MAE (Ft),10001.612931133359
+Végső teszt RMSE (Ft),13093.29114741834
+Végső teszt MAPE (%),1.6599450366515427
+Átlagos negyedéves R²,0.9657715093443028
+Átlagos bias (Ft),8100.987465619381
+Legpontosabb terület,Baranya
+Legpontosabb terület MAE (Ft),5693.40125657407
+Legpontatlanabb terület,Tolna
+Legpontatlanabb terület MAE (Ft),18495.366528702885
+Legnagyobb standardizált hatású feature,Bér_Lag3
+Legnagyobb standardizált hatás (Ft/1 SD),39203.78523098915

@@ -1,0 +1,7 @@
+﻿Ellenőrzés,Eredmény
+Mindhárom modell végső előrejelzése elérhető,Megfelelt
+A Ridge mindkét benchmarknál pontosabb,Megfelelt
+A klaszterenkénti hibák teljesek,Megfelelt
+A bérszint–hiba korrelációk elkészültek,Megfelelt
+A feature-hatások nyolc foldon alapulnak,Megfelelt
+Mind az öt végleges ábra rendelkezésre áll,Megfelelt
